@@ -1,6 +1,8 @@
 {
     "name": "DelegateListener", 
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "delegate listener like jQuery.delegate, but with semo additional stuff", 
-    "author": "Termi <1+DelegateListener@h123.ru>"
+    "author": "Termi <1+DelegateListener@h123.ru>",
+    "repository": "git://github.com/termi/DelegateListener.git",
+    "main": "__SRC/DelegateListener"
 }
